@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5f9637-bf1e-4dbb-9308-c8e4184b0d6b" name="Changes" comment="" />
+    <list default="true" id="8b5f9637-bf1e-4dbb-9308-c8e4184b0d6b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/Doctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/DoctorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/DoctorKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/PatientKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/PatientKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Doctor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Doctor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Patient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Patient.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +29,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JN3o6YiPOU0D6qsHJ0Cwi6oJoh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
