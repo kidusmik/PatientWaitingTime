@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b5f9637-bf1e-4dbb-9308-c8e4184b0d6b" name="Changes" comment="">
+    <list default="true" id="8b5f9637-bf1e-4dbb-9308-c8e4184b0d6b" name="Changes" comment="Add documentation and comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/Doctor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/DoctorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/DoctorKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt$calculatePatientWaitingTime$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/Patient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PatientWaitingTime/PatientKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PatientWaitingTime/PatientKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Doctor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Doctor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Patient.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Patient.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kidusmik &lt;kidusmik@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -56,6 +55,18 @@
       <option name="presentableId" value="Default" />
       <updated>1671905081211</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add documentation and comments">
+      <created>1672060989049</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672060989049</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add documentation and comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add documentation and comments" />
   </component>
 </project>

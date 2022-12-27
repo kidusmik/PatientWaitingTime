@@ -12,10 +12,10 @@ fun main() {
     val patient6 = Patient()
     val patient7 = Patient(doctor2)
     val patient8 = Patient()
-    // Construct a List of all available Doctors
-    val doctorsAvailable = mutableListOf(doctor1, doctor2)
-    // Construct the Patient Queue which is also a List
-    val patientQueue = mutableListOf(
+    // Construct an Array List of all available Doctors
+    val doctorsAvailable = arrayListOf(doctor1, doctor2)
+    // Construct the Patient Queue which is also an Array List
+    val patientQueue = arrayListOf(
         patient1, patient2, patient3, patient4,
         patient5, patient6, patient7, patient8
     )
@@ -41,12 +41,12 @@ fun main() {
  */
 fun calculatePatientWaitingTime(
     requestingPatient: Patient,
-    patientQueue: List<Patient>,
-    doctorsAvailable: MutableList<Doctor>
+    patientQueue: ArrayList<Patient>,
+    doctorsAvailable: ArrayList<Doctor>
 ): Triple<Int?, Patient, Doctor> {
     // Construct a List that records each Doctor's elapsed time
-    // This will be an Int List initialized with zeroes
-    val timeRecord = MutableList(doctorsAvailable.size) { 0 }
+    // This will be an integer Array initialized with zeroes
+    val timeRecord = Array(doctorsAvailable.size) { 0 }
     // This will create a Map that maps each available Doctor
     // to their respective time elapse record
     val doctorTimeMap = mutableMapOf<Doctor, Int>()
